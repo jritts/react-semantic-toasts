@@ -40,17 +40,16 @@
         "copyfiles": "^2.1.1",
         "eslint": "^6.6.0",
         "eslint-config-airbnb": "^18.0.1",
+        "eslint-config-prettier": "^6.5.0",
         "eslint-plugin-import": "^2.18.2",
         "eslint-plugin-jsx-a11y": "^6.2.3",
         "eslint-plugin-react": "^7.16.0",
-        "eslint-config-prettier": "^6.5.0",
         "prettier-eslint": "^9.0.0",
         "semantic-ui-css": "^2.4.1"
     },
     "peerDependencies": {
-        "react": "17.x.x",
         "prop-types": "^15.7.2",
+        "react": "17.x.x",
         "semantic-ui-react": "0.83.x || 0.84.x || 0.85.x || 0.86.x || 0.87.x || 0.88.x || 2.x"
-    },
-    "dependencies": {}
+    }
 }
